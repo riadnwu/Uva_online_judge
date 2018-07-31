@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496017225 source:d:\coding\c-c++ coading\uva online judge\11332 summing digits\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

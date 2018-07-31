@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525079859 source:d:\coding\c-c++\uva online judge\trainee_exam_questionanswe\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  int n,m;
+  while(cin>>n && n!=0 && cin>>m )
+  {
+    int data[2][m];
+    map<int,int> data[2];
+    for(int i=0;i<m;i++)
+    {
+        cin>>data[0][i];
+        cin>>data[1][i];
+    }
+
+  }
+}

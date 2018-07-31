@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521573450 source:d:\coding\c-c++\uva online judge\10004 bicoloring\main.cpp
+	<iostream>
+	<map>
+

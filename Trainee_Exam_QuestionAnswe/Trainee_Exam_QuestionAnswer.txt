@@ -1,0 +1,794 @@
+
+1. “c” is a
+a. high level language
+b. low level language 
+c. high level language with some low level features
+d. low level language with some high level features
+answer: c
+2.  “c” was primarily developed as a
+a. systems programing language
+b. general purpose language
+c. data processing language
+d. none of the above
+answer: a
+3. the differences between constructors and destructor are
+a. constructors can take arguments but destructor can’t
+b. constructors can be overloaded but destructors can’t be overloaded
+c. both a & b
+d. none of these
+answer: c
+4. a constructor is called whenever
+a. a object is declared
+b. an object is used
+c. a class is declared
+d. a class is used
+answer: a
+5. state the object oriented languages
+a. c++
+b. java
+c. eiffel
+d. all of the above
+answer: d
+
+6. what is a reference?
+a. an operator
+b. a reference is an alias for an object
+c. used to rename an object
+d. none of these
+answer: b
+
+7. the operator << is called
+a. an insertion operator
+b. put to operator
+c. either a or b
+d. none of these
+answer: c
+
+8. the operator >> is called
+a. an extraction operator
+b. a get from operator
+c. either a or b
+d. get to operator
+answer: c
+9. in c programming which one of the following is string termination character? 
+a. ‘\0’
+b. ‘\n’
+c. ‘\b’
+d. ‘\t’
+answer: a
+
+10. a function which invokes itself repeatedly until some condition is satisfied is called ___________ 
+a. friend function
+b. virtual function
+c. recursive function
+d. overloading function
+answer: c
+
+11. in c/cpp programming a function can return 
+a. single value
+b. double values
+c. many values
+d. none of these
+answer: a
+12. in c/cpp programming array index is always starts from
+a. 0
+b. 1
+c. 2
+d. 3
+answer: a
+13. which of the following is not the type of variable?
+a. extrern
+b. register
+c. global
+d. none of above
+answer: d
+
+14. which of the following is the symbol for and operator?
+a. ||
+b. &
+c. &&
+d. $$
+answer: c
+15. which of the following is the correct statement?
+a. variable name must start with underscore
+b. variable name must have digit
+c. variable name must have white space character
+d. keyword can not be a variable name
+answer: d
+
+
+16. int z,x=5,y=-10,a=4,b=2;
+z = x++ - --y * b / a;
+what number will z in the sample code above contain?
+A.	5
+B.	6
+C.	10 
+D.	11
+E.	12
+
+answer: c
+17. selection logic also called as
+A.	decision logic
+B.	iteration logic
+C.	sequence logic
+D.	looping logic
+answer: a
+18. pseudo code is also known as
+A.	program design language
+B.	hardware language
+C.	software language
+D.	algorithm
+answer: a
+19. a flowchart that outlines with all detail is called as
+A.	micro flowchart
+B.	macro flowchart
+C.	flowchart
+D.	algorithm
+answer: a
+20. a flowchart that outlines the main segments of program is called as
+A.	micro flowchart
+B.	macro flowchart
+C.	flowchart
+D.	algorithm
+answer: b
+
+21. which of the following is a pictorial representation of an algorithm?
+A.	pseudo code
+B.	program
+C.	flowchart
+D.	algorithm
+answer: c
+
+22. an algorithm represented in the form of programming languages is _________
+A.	flowchart
+B.	pseudo code
+C.	program
+D.	none
+answer: c
+23. flowcharts and algorithms are used for
+A.	better programming
+B.	easy testing and debugging
+C.	efficient coding
+D.	all
+answer: d
+
+24. in structure charts modules are described as
+A.	circle
+B.	triangles
+C.	rectangle
+D.	ellipse
+answer: b
+
+
+25. execution of two or more programs by a single cpu is known as
+A.	multiprogramming
+B.	multiprocessing
+C.	timesharing
+answer: b
+26. which of the following structures are used in computer programs?
+A.	sequential
+B.	decision
+C.	timesharing
+D.	none
+answer: d
+27. which of the following is a program planning tool?
+A.	sequential
+B.	decision
+C.	pseudo code
+D.	both b and c
+answer: d
+28. the chart that contains only function flow and no code is called as
+A.	flowchart
+B.	structure chart
+C.	both a and b
+D.	none
+answer: b
+29. c language developed at _____?
+A.	at & t's bell laboratories of usa in 1972
+B.	at & t's bell laboratories of usa in 1970
+C.	sun microsystems in 1973
+D.	cambridge university in 1972
+answer: a
+
+
+30. for 16-bit compiler allowable range for integer constants is ______ ?
+A.	-3.4e38 to 3.4e38
+B.	-32767 to 32768
+C.	-32768 to 32767
+D.	-32668 to 32667
+answer: c
+31. what is an array?
+A.	an array is a collection of variables that are of the dissimilar data type.
+B.	an array is a collection of variables that are of the same data type.
+C.	an array is not a collection of variables that are of the same data type.
+D.	none of the above.
+
+answer: b
+32. what is right way to initialization array?
+A.	int num[6] = { 2, 4, 12, 5, 45, 5 } ;
+B.	int n{} = { 2, 4, 12, 5, 45, 5 } ;
+C.	int n{6} = { 2, 4, 12 } ;
+D.	int n(6) = { 2, 4, 12, 5, 45, 5 } ;
+
+answer: a
+33. an array elements are always stored in _________ memory locations.
+A.	sequential
+B.	random
+C.	sequential and random
+D.	none of the above
+answer: a
+
+
+
+
+34. bitwise operators can operate upon?
+A.	double and chars
+B.	floats and doubles
+C.	ints and floats
+D.	ints and chars
+
+answer: d
+35. what is constant?
+A.	constants have fixed values that do not change during the execution of a program
+B.	constants have fixed values that change during the execution of a program
+C.	constants have unknown values that may be change during the execution of a program
+D.	none of the above
+
+answer: a
+
+36. in switch statement, each case instance value must be _______?
+A.	constant
+B.	variable
+C.	special symbol
+D.	none of the avobe
+
+answer: a
+37. the statement print f ("%d", 10 ? 0 ? 5 : 1 : 12); will print?
+A.	10
+B.	0
+C.	12
+D.	1
+
+answer: d
+
+38. which of the following data structure is linear type?
+A.	strings
+B.	queue
+C.	lists
+D.	all of the above
+
+answer: d
+39. number of binary trees formed with 5 nodes are
+A.	30
+B.	36
+C.	108
+D.	42
+
+answer: d
+40. the "c" language is
+A.	context free language
+B.	context sensitive language
+C.	regular language
+D.	none of the above
+
+answer: a
+41. c is ______ language?
+A.	low level
+B.	high level
+C.	assembly level
+D.	machine level
+
+answer:  b
+
+
+
+42. the default parameter passing mechanism is called as
+A.	call by value
+B.	call by reference
+C.	call by address
+D.	call by name
+
+answer: a
+43. the keywords are also called
+A.	safe words
+B.	static words
+C.	reserved words
+D.	reused words
+
+answer: c
+44. what will be the output of 5.0 / 2?
+A.	2
+B.	3
+C.	0
+D.	2.5
+
+answer: d
+45. representation of data structure in memory is known as
+A.	recursive
+B.	abstract data type
+C.	storage structure
+D.	file structure
+
+answer: b
+
+
+
+
+
+46. type of data and its value is described dy
+A.	constants
+B.	variables
+C.	data type
+D.	none of the above
+
+answer: b
+47. how many times is a do while loop guaranteed to loop?
+A.	0
+B.	variable
+C.	1
+D.	infinitely
+
+answer: c
+48. which of the following is not an iterative statement?
+A.	while
+B.	do while
+C.	switch
+D.	for
+answer: c
+49. which is an invalid name of identifier?
+A.	world
+B.	addition23
+C.	test-name
+D.	factorial
+answer: c
+
+
+
+
+
+50. what will be the output of the program ? #include void main() 
+{ float arr[] = {12.4, 2.3, 4.5, 6.7}; 
+printf("%d", sizeof(arr)/sizeof(arr[0])); 
+} 
+A.	5 
+B.	4 
+C.	6 
+D.	7 
+e. none of these 
+
+answer: b
+51. what is right way to initialize array
+A.	int num[6] = { 2, 4, 12, 5, 45, 5 };
+B.	b. int n{} = { 2, 4, 12, 5, 45, 5 }; 
+C.	c. int n{6} = { 2, 4, 12 }; 
+D.	d. int n(6) = { 2, 4, 12, 5, 45, 5 }; 
+answer: a
+52. which of the following part of the android is open sourced? 
+
+A.	low-level linux modules 
+B.	all of these answers 
+C.	native libraries 
+D.	application frame work 
+E.	complete applications 
+answer: b
+
+53. how to pass the data between activities in android? 
+A.	intent 
+B.	content provider 
+C.	broadcast receiver 
+D.	none of the above 
+answer: a
+
+
+
+
+
+
+54. which database is shipped with android by default? 
+
+A.	sqlite 
+B.	apache 
+C.	mysql 
+D.	oracle 
+answer: a
+
+55. which file contains all the text of an application? 
+
+A.	stack.xml 
+B.	text.xml 
+C.	strings.xml 
+D.	string.java 
+answer: c
+
+
+56. which  of these is incorrect string literal?
+
+A.	“hello world”
+B.	“hello\nworld”
+C.	“\”hello world”"
+D.	“hello
+E.	world”
+answer:d
+
+57. …….. data type can store unstructured data
+A.	raw
+B.	char
+C.	numeric
+D.	varchar
+answer: a
+
+
+58. which are the two ways in which entities can participate in a relationship?
+A.	passive and active
+B.	total and partial
+C.	simple and complex
+D.	all of the above
+answer: b
+
+
+59. which database level is closest to the users?
+A.	external
+B.	internal
+C.	physical
+D.	conceptual
+answer: a
+
+
+60. the database schema is written in
+A.	hll
+B.	dml
+C.	ddl
+D.	dcl
+answer: c
+
+
+61. dcl stands for
+
+A.	data control language
+B.	data console language
+C.	data console level
+D.	data control level
+answer: a
+
+
+62. …………………… is the process of organizing data into related tables.
+A.	normalization
+B.	generalization
+C.	specialization
+D.	none of the above
+answer: a
+
+63. grant and revoke are ……. statements.
+A.	ddl
+B.	tcl
+C.	dcl
+D.	dml
+answer: c
+
+A.	schema
+B.	application program
+C.	data definition language
+D.	code
+answer:a
+
+
+65. data independence means
+A.	data is defined separately and not included in programs.
+B.	programs are not dependent on the physical attributes of data
+C.	programs are not dependent on the logical attributes of data
+D.	both b and c
+answer: d
+
+
+66. ………………… is a full form of sql.
+A.	standard query language
+B.	sequential query language
+C.	structured query language
+D.	server side query language
+answer: c
+
+67. dfd stands for
+A.	data flow document
+B.	data file diagram
+C.	data flow diagram
+D.	non of the above
+answer: c
+
+68. php runs on different platforms (windows, linux, unix, etc.)
+
+A.	true
+B.	false
+answer: a
+
+
+69. variables always start with a ........ in php
+A.	pond-sign
+B.	yen-sign
+C.	dollar-sign
+D.	euro-sign
+answer: c
+
+70. what is the html tag for break?
+A.	<br>
+B.	<dr>
+C.	<th>
+D.	<td>
+answer: a
+
+71. which is logical operators
+A.	==,!=
+B.	+,-
+C.	&&,||
+D.	all of the above
+answer: c
+
+72. what will be the result of the expression 13 & 25?
+A.	38
+B.	25
+C.	9
+D.	12
+answer: c
+
+73. actions associated with objects are called _______________.
+A.	forms
+B.	events
+C.	properties
+D.	methods
+answer: d
+74.  which of the following is not an example of an object?
+A.	form
+B.	color
+C.	button
+D.	text box
+answer: b
+
+	75. which of the following is not an example of a procedural programming language?
+A.	cobol
+B.	fortran
+C.	pascal
+D.	visual basic
+answer:d
+	 
+76.  a new window added to a c# application is called a _______________.
+	
+
+A.	form
+B.	property
+C.	method
+D.	control
+answer: a
+77. the windows _______________ defines how the various elements will look and function.
+A.	front end
+B.	color
+C.	font
+D.	graphical user interface (gui)
+answer: d
+
+78. dennis was author of famous programming book
+A.	c programming and techniques
+B.	thinking in c
+C.	the c programming language
+D.	learn c step by step
+answer: c
+
+79. is used to construct the __________ .
+A.	none of these
+B.	boolean object
+C.	floating object
+D.	integer object
+answer: b
+
+80.  which of the following data type is not considered as data type in java programming.
+A.	char
+B.	boolean
+C.	string
+D.	int
+
+answer: c
+81. default value of string (or any object) in java programming is _____________.
+A.	0
+B.	false
+C.	'\u0000'
+D.	null
+answer: c
+
+82. default value of character data type in java programming is ___________________.
+A.	'\u0000'
+B.	undefine
+C.	null
+D.	0
+answer: a
+
+83. default value of "double" data type is ___________.
+A.	0
+B.	0.0
+C.	null
+D.	0.0d
+answer: d
+
+84. default value of variable having boolean data type is ___________.
+A.	1
+B.	true
+C.	0
+D.	false
+answer: d
+
+85. which of the following data type(s) can store 64 bit value.
+A.	int
+B.	long
+C.	float
+D.	double
+answer: b
+
+86. which of the following is data type stores longest ______________ floating point number.
+
+A.	double
+B.	long
+C.	boolean
+D.	float
+answer: a
+87. primitive data type 'byte' is having size _______ byte(s) in java programming.
+A.	2
+B.	3
+C.	4
+D.	1
+answer: d
+88. what is size of integer in java programming.
+A.	3 bytes
+B.	4 bytes
+C.	2 bytes
+D.	8 bytes
+
+answer: b
+89. in order to fetch stream of data from network or file , following data type is used ___________.
+A.	byte
+B.	int
+C.	double
+D.	char
+answer:a
+90. range of byte data type is ____________.
+A.	-128 to 256
+B.	-127 to 128
+C.	-128 to 255
+D.	-128 to 127
+
+answer:d
+
+91. character data type cannot store following value.
+A.	special character
+B.	letter
+C.	digit
+D.	string
+answer: d
+
+92. which of the following data types comes under floating data types ?
+A.	byte
+B.	double
+C.	long
+D.	int
+answer: b
+
+93. which of the following is not a primitive data type ?
+A.	int
+B.	short
+C.	byte
+D.	enum
+answer: d
+
+94. which of the following is smallest integer data type ?
+A.	long
+B.	int
+C.	short
+D.	byte
+answer: d
+95. which of the following tool used to execute java code.
+A.	java
+B.	rmic
+C.	javadoc
+D.	javac
+answer: a
+96. which of the tool is used to compile java code ?
+A.	jar
+B.	javac
+C.	javadoc
+D.	java
+answer: b
+97. java source code is compiled into ______________ .
+A.	source code
+B.	.obj
+C.	.exe
+D.	bytecode
+answer:d
+
+98. html is derived from _______.
+A.	url
+B.	sgml
+C.	tcp/ip
+D.	browsers
+answer: b
+
+99. url means ________.
+A.	address of the resource on the web
+B.	term used to describe website
+C.	term used to get online program
+D.	none of these
+answer:a
+100. to design web pages we need to use _________.
+A.	server
+B.	xml
+C.	browser
+D.	html
+answer:d
+101. which of the following language is used to write animation and games in browser ?
+A.	java
+B.	none of these
+C.	c programming
+D.	html
+answer: a
+102. software which allows user to view the webpage is called as __________.
+A.	operating system
+B.	internet browser
+C.	interpreter
+D.	website
+answer: b
+
+103. computer that requests the resources or data from other computer is called as ________ computer.
+A.	client
+B.	server
+answer: a
+104.  ________ programs are automatically loaded and operates as a part of browser.
+
+A.	utilities
+B.	plug-ins
+C.	widgets
+D.	add-ons
+answer: b
+105. interface to system call is through
+A.	using user defined functions
+B.	functions
+C.	api
+D.	none of these
+
+answer:c
+
+106. which is open source software?
+A.	mysql
+B.	php
+C.	linux os
+D.	all of the above
+answer: d
+
+107. multiprocessor system consist of?
+A.	multiple processor
+B.	multiple memories
+C.	multiple i/o devices
+D.	none of the above
+answer:a
+
+108. multiprocessor system result in?
+A.	increased throughput
+B.	cost effective
+C.	reliability
+D.	all of the above
+answer: d
+
+
+109. operating system is?
+A.	which runs during log off
+B.	program which runs for short duration
+C.	which runs at the start of computer system
+D.	long running program in computer
+answer:d
+
+
+110. in the following code segment:
+int z,x=5,y=-10,a=4,b=2;
+	z=x++ - --y* b/a;
+what will be the final value of z?
+A.	5
+B.	6
+C.	10
+D.	11
+answer:c
+
+

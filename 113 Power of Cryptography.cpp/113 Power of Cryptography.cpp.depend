@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1487004776 source:d:\c-c++ coading\uva online judge\113 power of cryptography.cpp\main.cpp
+	<iostream>
+	<math.h>
+
+1496057618 source:d:\coding\c-c++ coading\uva online judge\113 power of cryptography.cpp\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479743689 source:d:\c-c++ coading\numaricl annaylices\10954 add all\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+

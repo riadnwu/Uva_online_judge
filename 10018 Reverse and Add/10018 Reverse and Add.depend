@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479450727 source:d:\c-c++ coading\uva online judge\10018 reverse and add\main.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+	<sstream>
+	<sstream>
+
