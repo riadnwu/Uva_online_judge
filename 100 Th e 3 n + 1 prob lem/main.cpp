@@ -1,3 +1,9 @@
+/*
+Md. Riadul Islam
+2K15
+06
+riadnwu@gmail.com
+*/
 #include<iostream>
 using namespace std;
 int main()
