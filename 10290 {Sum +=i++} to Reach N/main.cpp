@@ -27,8 +27,7 @@ int main()
         {
             while (!(n % 2))
                 n >>= 1;
-            //因數分解
-            int sum = 1, idx = 1;//從 3 開始
+            int sum = 1, idx = 1;
             while (n != 1 && n >= prime[idx] * prime[idx] && idx < count)
             {
                 int temp = 1;
@@ -40,7 +39,6 @@ int main()
                 sum *= temp;
                 idx++;
             }
-            //如果還有剩下沒除完的數，就是質數
             if (n != 1)
                 sum <<= 1;
             printf("%d\n", sum);
